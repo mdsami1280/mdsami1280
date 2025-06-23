@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @mdsami1280
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Md Sami 👋
 
-<!---
-mdsami1280/mdsami1280 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Final Year Student | 💻 Full Stack Developer | 🚀 Tech Enthusiast
+
+🔭 Currently working on:
+- The Aarya Club Website (Spring Boot + React)
+- KisanConnect – AgriTech Platform
+
+🌱 Learning:
+- Docker, CI/CD, Microservices
+- System Design and Advanced Java
+
+📫 How to reach me:
+- ✉️ email@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/md-samiullah-ab63b6251/)
+
+💬 Let's connect and build something amazing!
