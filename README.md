@@ -11,7 +11,7 @@
 - System Design and Advanced Java
 
 📫 How to reach me:
-- ✉️ email@example.com
+- ✉️ er.mdshami@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/md-samiullah-ab63b6251/)
 
 💬 Let's connect and build something amazing!
